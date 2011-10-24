@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DoIt</string>
+    <string name="settings_label">DoIt - Settings</string>
+    
+    <string name="btn_save">Save</string>
+    
+    <string name="settings_title">Settings</string>
+    
+    <string name="settings_widgetcolor">Widget textcolor:</string>
+    <string name="settings_widgetcolor_default">Light</string>
+    <string name="settings_widgetcolor_set">The color of the widget-text was set to: </string>
+    <string name="settings_widgetcolor_dialogtitle">Pick a font-color:</string>
+    
+    <string name="settings_widgetstyle">Widget style:</string>
+    <string name="settings_widgetstyle_default">No background</string>
+    <string name="settings_widgetstyle_set">The style of the widget was set to: </string>
+    <string name="settings_widgetstyle_dialogtitle">Pick a style:</string>
+    
+    <string name="settings_widgetfontsize">Widget size:</string>
+    <string name="settings_widgetfontsize_default">12</string>
+    <string name="settings_widgetfontsize_set">The size of the widget text was set to: </string>
+    <string name="settings_widgetfontsize_dialogtitle">Pick a font-size:</string>
+    
+    <string name="settings_widgetsize">Widget size:</string>
+    <string name="settings_widgetsize_default">2x2</string>
+    <string name="settings_widgetsize_set">The size of the widget was set to: </string>
+    <string name="settings_widgetsize_dialogtitle">Pick a size:</string>
+    
+    
+    
+    <string-array name="coloritems">
+    	<item>Light</item>
+    	<item>Dark</item>
+    </string-array>
+    <string-array name="styleitems">
+		<item>No Background</item>
+		<item>Light gradient</item> 
+		<item>Dark gradient</item>
+    </string-array>
+    <string-array name="sizeitems">
+		<item>2x2</item>
+		<item>4x1</item> 
+		<item>4x2</item>
+    </string-array>
+    
+    <string name="row_dueindays">Due in {0} days</string>
+    <string name="row_wasduedays">Due {0} days ago</string>
+    <string name="row_dueinhours">Due in {0} hours</string>
+    <string name="row_wasduehours">Due {0} hours ago</string>
+    
+    <string name="donelog_title">DoIt - Log</string>
+    
+</resources>

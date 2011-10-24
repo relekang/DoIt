@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:padding="6dip" android:background="#f5f5f5">
+
+	<SeekBar android:id="@+id/dialog_fontsize_seekbar" 
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:max="7"
+		/>
+	<Button android:id="@+id/dialog_fontsize_savebtn" 
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:layout_below="@id/dialog_fontsize_seekbar" android:text="@string/btn_save"
+		/>
+
+</RelativeLayout>
