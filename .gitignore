@@ -4,3 +4,4 @@
 /default.properties
 /gen
 /proguard.cfg
+*.DS_STORE
